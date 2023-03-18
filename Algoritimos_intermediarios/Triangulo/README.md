@@ -8,15 +8,15 @@ Em caso negativo, calcule a área do trapézio que tem A e B como base e C como 
 
 Area = XX.X
 
-Fórmula da área de um trapézio: AREA = ((A + B) x C) / 2
+Fórmula da área de um trapézio: AREA = ((A + B) x C)/2
 
-# Entrada
+## Entrada
 A entrada contém três valores reais.
 
-# Saída
+## Saída
 O resultado deve ser apresentado com uma casa decimal.
 
-Exemplo de Entrada	  Exemplo de Saída
-6.0 4.0 2.0           Area = 10.0
-6.0 4.0 2.1           Perimetro = 12.1
-
+Exemplo de Entrada	|  Exemplo de Saída
+--------------------|------------------
+6.0 4.0 2.0         |  Area = 10.0
+6.0 4.0 2.1         |  Perimetro = 12.1

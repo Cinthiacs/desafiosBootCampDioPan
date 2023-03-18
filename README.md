@@ -1,4 +1,4 @@
-# desafiosBootCampDioPan
-Desafios desenvolvidos para o BootCamp do Banco Pan na linguagem Java atraves da plataforma DIO.
-* Utilizei a IDE Visual Studio Code
-* Utilizei o pacote Java JDK para compilar o código.
+# bootCampBancoPanDio
+- Disponibilizo meus estudos na linguagem Java que desenvolvi durante minha jornada no Boot Camp Banco Pan, atraves da plataforma dio.me.
+- Os projetos foram desenvolvidos atraves da IDE Visual Studio Code.
+- Para compilar o código em Java foi utilizado o pacote JDK 17.0.2.
