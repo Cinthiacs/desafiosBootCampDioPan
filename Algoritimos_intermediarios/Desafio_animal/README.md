@@ -23,7 +23,7 @@ carnivoro           |
 
 Exemplos de Entrada	| Exemplos de Saída
 --------------------|------------------
-invertebrado         minhoca
-anelideo
-onivoro
+invertebrado        | minhoca
+anelideo            |
+onivoro             |
 
