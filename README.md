@@ -2,7 +2,7 @@
 
 Disponibilizo meus estudos na linguagem Java que desenvolvi durante minha jornada no Boot Camp Banco Pan, através da plataforma <https://www.dio.me/>
 
-#### Desafios propostos em nível básico e intermediário.
+#### Desafios propostos estão disponíveis nas pastas Algorítimos básicos e Algorítimos intermediários.
 
 #### Pré Requisitos:
 
