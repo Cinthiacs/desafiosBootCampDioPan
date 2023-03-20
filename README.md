@@ -1,6 +1,6 @@
 # bootCampBancoPanDio
 
-Disponibilizo meus estudos na linguagem Java que desenvolvi durante minha jornada no Boot Camp Banco Pan, através da plataforma <https://www.dio.me/>
+Disponibilizo meus estudos na linguagem Java que desenvolvi durante minha jornada no Boot Camp Banco Pan, através da plataforma Digital Innovation One <https://www.dio.me/>
 
 #### Desafios propostos estão disponíveis nas pastas:
 * Algorítimos básicos  
