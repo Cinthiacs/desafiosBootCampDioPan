@@ -5,7 +5,7 @@ Disponibilizo meus estudos na linguagem Java que desenvolvi durante minha jornad
 #### Desafios propostos estão disponíveis nas pastas:
 * Algorítimos básicos  
 * Algorítimos intermediários.
-#### Contendo subpastas com o nome do desafio com arquivos README.md explicando sobre o projeto e com a extensão .java com o código à ser compilado.
+#### Contendo subpastas com o nome do desafio, incluindo arquivos README.md explicando sobre o projeto e com a extensão .java com o código à ser compilado.
 
 #### Pré Requisitos:
 
