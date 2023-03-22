@@ -1,4 +1,4 @@
-package bootCampBancoPanDio.Algoritimos_intermediarios.Taxa_imposto_renda;
+package Algoritimos_intermediarios.src.Taxa_imposto_renda;
 import java.io.IOException;
 import java.util.Scanner;
 

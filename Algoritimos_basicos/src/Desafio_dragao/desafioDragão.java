@@ -1,4 +1,4 @@
-package bootCampBancoPanDio.Algoritimos_básicos.Desafio_dragao;
+package Algoritimos_basicos.src.Desafio_dragao;
 import java.util.*;
 public class desafioDragão {
     public static void main(String[] args){

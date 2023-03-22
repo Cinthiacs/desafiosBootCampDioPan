@@ -1,4 +1,4 @@
-package bootCampBancoPanDio.Algoritimos_intermediarios.Triangulo;
+package Algoritimos_intermediarios.src.Triangulo;
 import java.io.IOException;
 import java.util.Scanner;
 

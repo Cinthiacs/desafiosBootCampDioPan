@@ -1,4 +1,4 @@
-package bootCampBancoPanDio.Algoritimos_básicos.Fibonacci_facil;
+package Algoritimos_basicos.src.Fibonacci_facil;
 
 import java.io.IOException;
 import java.util.Scanner;

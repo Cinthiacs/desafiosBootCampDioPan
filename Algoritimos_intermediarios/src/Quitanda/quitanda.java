@@ -1,4 +1,4 @@
-package bootCampBancoPanDio.Algoritimos_intermediarios.Quitanda;
+package Algoritimos_intermediarios.src.Quitanda;
 import java.util.*;
 
 public class quitanda {

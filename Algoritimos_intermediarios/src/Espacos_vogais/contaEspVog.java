@@ -1,4 +1,4 @@
-package bootCampBancoPanDio.Algoritimos_intermediarios.Espacos_vogais;
+package Algoritimos_intermediarios.src.Espacos_vogais;
 import java.util.Scanner;
 
 public class contaEspVog {

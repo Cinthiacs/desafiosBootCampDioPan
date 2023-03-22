@@ -1,4 +1,4 @@
-package BootCampDioPanRepositorio.Algoritimos_intermediarios.Desafio_animal;
+package Algoritimos_intermediarios.src.Desafio_animal;
 
 import java.io.IOException;
 import java.util.Scanner;

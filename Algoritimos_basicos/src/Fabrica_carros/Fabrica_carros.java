@@ -1,4 +1,4 @@
-package bootCampBancoPanDio.Algoritimos_básicos.Fabrica_carros;
+package Algoritimos_basicos.src.Fabrica_carros;
 import java.util.Scanner;
 
 public class Fabrica_carros {

@@ -1,4 +1,4 @@
-package bootCampBancoPanDio.Algoritimos_básicos.Soma_h;
+package Algoritimos_basicos.src.Soma_h;
 import java.util.Scanner;
 
 public class somadeH {
