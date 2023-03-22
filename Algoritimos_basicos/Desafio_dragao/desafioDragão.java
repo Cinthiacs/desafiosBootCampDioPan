@@ -21,17 +21,3 @@ public class desafioDragão {
         }
 }
 }
-//A primeira linha contém um número inteiro C relativo ao número de casos de teste. Em seguida, haverá C linhas, com um número inteiro N (100 <= N <= 100000) relativo ao nível de energia de um ser vivo.
-/*Saída
-Para cada valor lido, imprima o texto correspondente.
-
- 
-Exemplo de Entrada	Exemplo de Saída
-3
-8001
-100
-200
-
-Mais de 8000!
-Inseto!
-Inseto!*/
