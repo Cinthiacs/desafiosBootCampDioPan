@@ -3,7 +3,7 @@
 
 <p><strong>APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.</strong><br>Desafio que desenvolvi durante minha jornada BootCamp Banco Pan através da plataforma de cursos online <strong><a href="https://web.digitalinnovation.one/">DIGITAL INNOVATION ONE</a></strong> 💛🧡 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.<br>
 
-    💎 O objetivo principal é colocar em prática umas das principais ferramentas da OO que envolvem abstração, encapsulamento, herança e polimorfismo, na linguagem Java.
+💎 Objetivo principal é colocar em prática umas das principais ferramentas da OO que envolvem abstração, encapsulamento, herança e polimorfismo, na linguagem Java.
 
 
 
