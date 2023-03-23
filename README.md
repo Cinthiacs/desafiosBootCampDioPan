@@ -2,7 +2,7 @@
 
 Disponibilizo meus estudos na linguagem Java que desenvolvi durante minha jornada no Boot Camp Banco Pan, através da plataforma <a href="https://web.digitalinnovation.one/">DIGITAL INNOVATION ONE</a></strong> 💛🧡
 
-#### Desafios propostos estão disponíveis nos diretorios ./src :
+#### Desafios propostos estão disponíveis nos diretorios:
 <p>
 ✅ Algorítimos básicos. 
 
