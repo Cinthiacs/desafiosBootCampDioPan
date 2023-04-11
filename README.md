@@ -4,9 +4,9 @@ Disponibilizo meus estudos na linguagem Java que desenvolvi durante minha jornad
 
 #### Desafios propostos estão disponíveis nos diretorios:
 <p>
-✅ Algorítimos básicos. 
+✅ Algorítimos básicos/src. 
 
-✅ Algorítimos intermediários.
+✅ Algorítimos intermediários/src.
 
 ✅ Desafio poo dio
 </p>
