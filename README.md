@@ -8,7 +8,6 @@ Disponibilizo meus estudos na linguagem Java que desenvolvi durante minha jornad
 
 ✅ Algorítimos intermediários/src.
 
-✅ Desafio poo dio
 </p>
 
 * Os diretórios possuem:
@@ -22,8 +21,3 @@ Disponibilizo meus estudos na linguagem Java que desenvolvi durante minha jornad
 ✅ Para compilar o código em Java foi utilizado o pacote JDK 17.0.2.<br>
 
 </p>
-
-
-
-
-
