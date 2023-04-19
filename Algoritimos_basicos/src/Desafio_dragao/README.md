@@ -21,7 +21,7 @@ Este é um programa em Java que resolve o desafio do dragão, que consiste em ve
 1. Clone este repositório para o seu computador
 ```bash
 # clonar repositório
-git clone https://github.com/Cinthiacs/Desafio_dragao.git
+git clone https://github.com/Cinthiacs/desafiosBootCampDioPan.git
 ```
 2. Abra o arquivo desafioDragão.java em uma IDE Java, utilizei o VsCode.
 3. Compile e execute o programa.
