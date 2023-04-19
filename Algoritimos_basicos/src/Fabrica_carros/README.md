@@ -23,3 +23,31 @@ Entrada |Saída
 30000   |36000
 10      |
 10	    |
+
+# Fábrica de Carros
+Este é um programa em Java que calcula o preço final de um carro com base no custo de fabricação, na porcentagem do distribuidor e nos impostos.
+
+Como executar
+1. Clone este repositório para o seu computador.
+```bash
+# clonar repositório
+git clone https://github.com/Cinthiacs/Fabrica_carros.git
+```
+2. Abra o arquivo Fabrica_carros.java em uma IDE Java, como o Eclipse ou o IntelliJ IDEA
+
+### Compile e execute o programa
+Alternativamente, você também pode executar o programa a partir da linha de comando usando o comando javac para compilar e java para executar:
+
+```bash
+javac Fabrica_carros.java
+java Fabrica_carros
+```
+### Como usar
+* Ao executar o programa, o usuário será solicitado a informar o custo de fabricação do carro, a porcentagem do distribuidor e o percentual de impostos. 
+* O programa calculará o preço final do carro e o exibirá na tela.
+
+Contribuições
+Contribuições são sempre bem-vindas! Se você encontrar um bug ou tiver uma sugestão para melhorar o programa, sinta-se à vontade para criar uma issue ou um pull request neste repositório.
+
+### Autora:
+Cinthia Cavalheiro.
