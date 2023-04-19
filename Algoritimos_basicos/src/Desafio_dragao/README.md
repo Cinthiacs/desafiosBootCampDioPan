@@ -36,5 +36,5 @@ Ao executar o programa, o usuário será solicitado a informar o número de caso
 ### Contribuições
 Contribuições são sempre bem-vindas! Se você encontrar um bug ou tiver uma sugestão para melhorar o programa, sinta-se à vontade para criar uma issue ou um pull request neste repositório.
 
-Autora:
+### Autora:
 Cinthia Cavalheiro.
